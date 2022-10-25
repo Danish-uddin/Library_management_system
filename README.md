@@ -2,7 +2,7 @@
 <br>
 <h3>Live Demo: https://danishproj101.000webhostapp.com/index.php </h3>
 <h3>Structure of App</h3>
- <br>⚈ Admin login - > Admin Dashboard
+ ⚈ Admin login - > Admin Dashboard
  <br>⚈ User login - > User Dashboard
 
   <h3>Hello World of Object Recognition!</h3>

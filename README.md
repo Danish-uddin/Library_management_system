@@ -23,17 +23,17 @@ Use Xampp server, save project inside htdocs folder and open index.php file
 <h2>Application screenshots:</h2>
 Use Xampp server, save project inside htdocs folder and open index.php file
 
-### User interface
+### Home page
 <img src="readme-images/user_interface.png" width="600">
 
-### sample 1 - Digit 4
+### User login
 <img src="readme-images/samle1-digit44.PNG" width="600">
 
-### sample 2 - Digit 4 (different handwriting but correct prediction)
+### Admin Login
 <img src="readme-images/sample1-digit4.png" width="600">
 
-### sample 3 - Digit 1
+### Admin Dashboard
 <img src="readme-images/sample2_digit1.png" width="600">
 
-### sample 4 - Digit 1 (different handwriting but correct prediction)
+### User Dashboard
 <img src="readme-images/sample2_digit11.png" width="600">

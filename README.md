@@ -1,6 +1,6 @@
 # Library Management System
-<h3>Live Demo: https://danishproj101.000webhostapp.com/index.php </h3>
-<h3>Structure of App</h3>
+<h2>Live Demo: https://danishproj101.000webhostapp.com/index.php </h2>
+<h2>Structure of App</h2>
  ⚈ Admin login - > Admin Dashboard
  <br>⚈ User login - > User Dashboard
 
@@ -18,6 +18,9 @@ The owner can easily update, delete and insert data in the database with this pr
 5. Print the details of studnets, etc.
 
 <h2>For Deployment:</h2>
+Use Xampp server, save project inside htdocs folder and open index.php file
+
+<h2>Application screenshots:</h2>
 Use Xampp server, save project inside htdocs folder and open index.php file
 
 ### User interface

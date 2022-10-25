@@ -24,16 +24,16 @@ Use Xampp server, save project inside htdocs folder and open index.php file
 Use Xampp server, save project inside htdocs folder and open index.php file
 
 ### Home page
-<img src="readme-images/user_interface.png" width="600">
+<img src="readme-images/home_page.PNG" width="600">
 
 ### User login
-<img src="readme-images/samle1-digit44.PNG" width="600">
+<img src="readme-images/admin_login_1.PNG" width="600">
 
 ### Admin Login
-<img src="readme-images/sample1-digit4.png" width="600">
+<img src="readme-images/admin_login_2.PNG" width="600">
 
 ### Admin Dashboard
-<img src="readme-images/sample2_digit1.png" width="600">
+<img src="readme-images/admin_dashboard.PNG" width="600">
 
 ### User Dashboard
-<img src="readme-images/sample2_digit11.png" width="600">
+<img src="readme-images/user_dashboard.PNG" width="600">

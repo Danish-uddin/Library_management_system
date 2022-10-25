@@ -1,6 +1,6 @@
 # Library Management System
 <br>
-<h3>Live Demo: "https://danishproj101.000webhostapp.com/index.php" </h3>
+<h3>Live Demo: https://danishproj101.000webhostapp.com/index.php </h3>
 <h3>Structure of App</h3>
 <h2> keras - > Tensorflow.js ->(html + css + javascript)</h1>
   <h3>Hello World of Object Recognition!</h3>

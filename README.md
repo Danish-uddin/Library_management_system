@@ -4,8 +4,7 @@
  ⚈ Admin login - > Admin Dashboard
  <br>⚈ User login - > User Dashboard
 
-  <h3>Hello World of Object Recognition!</h3>
- <h2>Aim:</h2> To make a convolution neural network to recognise handwritten digits by training the model on MNIST dataset available in keras.
+ <h2>Aim:</h2> A library management system is about organization, library management, and library-oriented tasks. It also includes keeping a database of new books entered and records of books that have been picked up or issued, with the relevant date.
  <br>
  <h2>MNIST DATASET:</h2>The training dataset contain 60000 images and testing contain 10000 images .Each image is 28x28 pixel and grey scale.
   <br>

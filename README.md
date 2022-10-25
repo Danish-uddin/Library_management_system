@@ -4,17 +4,21 @@
  ⚈ Admin login - > Admin Dashboard
  <br>⚈ User login - > User Dashboard
 
- <h2>Aim:</h2> A library management system is about organization, library management, and library-oriented tasks. It also includes keeping a database of new books entered and records of books that have been picked up or issued, with the relevant date.
+ <h2>Introduction:</h2> A library management system is about organization, library management, and library-oriented tasks. It also includes keeping a database of new books entered and records of books that have been picked up or issued, with the relevant date.
  <br>
- <h2>MNIST DATASET:</h2>The training dataset contain 60000 images and testing contain 10000 images .Each image is 28x28 pixel and grey scale.
-  <br>
- <h2>CNN MODEL OVERVIEW:</h2>
- <br>⚈ It is a 17 layer model with Conv2D,MaxPooling2D,BatchNormalization,Dense,Flatten and Dropout layer combination.
- <br>⚈ Input layer has 32 neuron and output layer has 10 neurons as 10 different clases exsist.
- <br>⚈ 30 epochs are used.
- <br>⚈ Categorical_loss is loss function and adam is used for optimization.
- <br>⚈ Model gives 99.15% accuracy.
-<h2>For Deployment:</h2>Save model using tensorflowjs converters as json file and weight as .h5 file.Use Tensorflow.js to load model and predict in javascript file
+ <h2>Objective of this project:</h2>
+The main aim of this project is providing an easy to handle and automated library management system. This project also provides features and interface for maintaining librarian’s records, student’s history of issue and fines.
+
+The owner can easily update, delete and insert data in the database with this project.The following are some of the features provided by this project:
+
+1. Login/SignUp.
+2. Add a new students details.
+3. Remove the details of students.
+4. Update the details of students.
+5. Print the details of studnets, etc.
+
+<h2>For Deployment:</h2>
+Use Xampp server, save project inside htdocs folder and open index.php file
 
 ### User interface
 <img src="readme-images/user_interface.png" width="600">

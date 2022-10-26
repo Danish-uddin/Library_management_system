@@ -1,4 +1,5 @@
 # Library Management System
+<img src="readme-images/admin_dashboard.PNG" width="300">
 <h2>Live Demo: https://danishproj101.000webhostapp.com/index.php </h2>
 <h2>Structure of App</h2>
  ⚈ Admin login - > Admin Dashboard
